@@ -136,11 +136,11 @@
    and the behavior of the program:
 
    DEFAULT TEST CASE: 
-   - This was the provided test case that was provided with the assignment. The program succecssfully peroformed its calculations
+   - This was the provided test case. The program succecssfully peroformed its calculations
    and provided the required average values, indicating that there were intervals of enqueue and dequeue taking place in the simulation.
 
    TEST CASE WITH ALL VALUES AS 0:
-   - This was the provided test case that was provided with the assignment. The program succecssfully peroformed its calculations
+   - The program succecssfully peroformed its calculations
    and provided the required average values, indicating that there were intervals of enqueue and dequeue taking place in the simulation.
 
    VARYING ARRIVAL RATE VALUE:
