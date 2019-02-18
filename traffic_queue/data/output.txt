@@ -1,0 +1,99 @@
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	20  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 0 s; 	Amber 1 s;	Red 20 s
+Average length:	25  cars
+Maximum length:	49  cars
+Average wait:	300 s
+Maximum wait:	0 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	10  s per car
+Runtime: 		15 min
+Time Increment: 	0 ms
+Light sequence: 	Green 10 s; 	Amber 1 s;	Red 20 s
+Average length:	0  cars
+Maximum length:	0  cars
+Average wait:	0 s
+Maximum wait:	0 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	0  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 20 s; 	Amber 1 s;	Red 20 s
+Average length:	1  cars
+Maximum length:	6  cars
+Average wait:	6 s
+Maximum wait:	20 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	5  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 0 s; 	Amber 0 s;	Red 0 s
+Average length:	19  cars
+Maximum length:	34  cars
+Average wait:	182 s
+Maximum wait:	211 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	10  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 10 s; 	Amber 1 s;	Red 60 s
+Average length:	32  cars
+Maximum length:	63  cars
+Average wait:	282 s
+Maximum wait:	259 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	50  s per car
+Runtime: 		5 min
+Time Increment: 	50 ms
+Light sequence: 	Green 20 s; 	Amber 1 s;	Red 20 s
+Average length:	21  cars
+Maximum length:	42  cars
+Average wait:	279 s
+Maximum wait:	189 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	10 cars per min
+Departure rate: 	0  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 10 s; 	Amber 1 s;	Red 20 s
+Average length:	2  cars
+Maximum length:	9  cars
+Average wait:	7 s
+Maximum wait:	21 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	25 cars per min
+Departure rate: 	10  s per car
+Runtime: 		5 min
+Time Increment: 	10 ms
+Light sequence: 	Green 40 s; 	Amber 1 s;	Red 20 s
+Average length:	52  cars
+Maximum length:	105  cars
+Average wait:	202 s
+Maximum wait:	211 s
+------------------------------------------------------------
+dmawazo
+Arrival rate: 	0 cars per min
+Departure rate: 	0  s per car
+Runtime: 		0 min
+Time Increment: 	0 ms
+Light sequence: 	Green 0 s; 	Amber 0 s;	Red 0 s
+Average length:	0  cars
+Maximum length:	0  cars
+Average wait:	0 s
+Maximum wait:	0 s
+------------------------------------------------------------
