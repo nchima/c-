@@ -2,9 +2,6 @@
 
    trafficQueueing.h - interface file for a program named example
    ======================================================
-
-   This program is for course 04-630 Data Structures and Algorithms for Engineers, Assignment No. 3
-
    Please refer to the application file, trafficQueueingApplication.cpp, for details of the functionality of this program
 
 
