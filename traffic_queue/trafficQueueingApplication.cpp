@@ -11,7 +11,7 @@
 
    Input data included a list of traffic simulation scenarios, with each of the seven required key-value pairs provided in an input file named input.txt.
    This input file is located in the data directory. Since this directory is a sibling directory of the bin directory
-   where the dmawazo.exe file resides, the filename used when opening the file is "../data/input.txt".
+   where the .exe file resides, the filename used when opening the file is "../data/input.txt".
 
    Output for the test case is written to an output file "../data/output.txt"
 
@@ -547,9 +547,6 @@ int main()
 		fprintf(fp_out, "Maximum wait:\t%d s\n", max_wait_time);
 
 		fprintf(fp_out, "------------------------------------------------------------\n");
-
-
-		printf("dmawazo\n");
 		printf("TEST CASE NUMBER %d\n", current_testcase+1);
 		printf("NUMBER OF CARS %d\n",  number_cars);
 
