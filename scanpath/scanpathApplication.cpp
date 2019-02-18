@@ -1,5 +1,5 @@
 /*
-	scanpathApplication.cpp - application file for a program named scanpath, that was updated to fit in with the requirements for Assignment 2.
+	scanpathApplication.cpp - application file for a program named scanpath
 	=====================================================================
 
 	"Write a program to produce a sort a list of fixations points, each one specified by its fixation point number and x and y coordinates. 
